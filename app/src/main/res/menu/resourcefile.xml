@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/additionMenu"
+        android:title="Addition" />
+    <item
+        android:id="@+id/subtractionMenu"
+        android:title="Subtraction" />
+    <item
+        android:id="@+id/multiplicationMenu"
+        android:title="Multiplication" />
+    <item
+        android:id="@+id/divisionMenu"
+        android:title="Division" />
+</menu>
